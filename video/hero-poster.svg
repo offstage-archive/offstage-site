@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <rect width="1280" height="720" fill="#0a0b0d"/>
+  <rect x="60" y="60" width="1160" height="600" fill="none" stroke="#2a2d38" stroke-width="2"/>
+  <text x="640" y="320" fill="#e8e4dc" font-family="Georgia, serif" font-size="72" text-anchor="middle">Offstage</text>
+  <text x="640" y="380" fill="#8a8680" font-family="monospace" font-size="24" text-anchor="middle">Introduction  Ep 0</text>
+  <circle cx="640" cy="480" r="40" fill="none" stroke="#c45c3e" stroke-width="3"/>
+  <polygon points="630,460 630,500 660,480" fill="#c45c3e"/>
+</svg>

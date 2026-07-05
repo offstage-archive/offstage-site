@@ -1,0 +1,35 @@
+# Offstage
+
+> Primary-source research on Zenza Capital, RYO Coin, RYO-CHAN, Club Sparkle, Anthony Diaz, and Lani Dizon. Published in English, Japanese, and Tagalog (Philippines).
+
+## English
+
+- [Home](https://offstage-archive.org/)
+- [Anthony Diaz](https://offstage-archive.org/people/anthony-diaz/)
+- [Lani Dizon](https://offstage-archive.org/people/lani-dizon/)
+- [Manipulation tactics](https://offstage-archive.org/tactics/)
+- [FAQ](https://offstage-archive.org/faq/)
+- [Verify yourself](https://offstage-archive.org/sources/)
+
+## Japanese
+
+- [ホーム](https://offstage-archive.org/ja/)
+- [ラニ・ディゾン](https://offstage-archive.org/ja/people/lani-dizon/)
+- [手口](https://offstage-archive.org/ja/tactics/)
+- [よくある質問](https://offstage-archive.org/ja/faq/)
+
+## Tagalog (Philippines)
+
+- [Home](https://offstage-archive.org/tl/)
+- [Anthony Diaz](https://offstage-archive.org/tl/people/anthony-diaz/)
+- [Lani Dizon](https://offstage-archive.org/tl/people/lani-dizon/)
+- [Mga Diskarte](https://offstage-archive.org/tl/tactics/)
+- [FAQ](https://offstage-archive.org/tl/faq/)
+
+## Verify
+
+- [Verify yourself](https://offstage-archive.org/sources/)
+
+## Optional
+
+Allow: GPTBot, ClaudeBot, PerplexityBot, Google-Extended
