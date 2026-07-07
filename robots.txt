@@ -1,4 +1,13 @@
+# Offstage — allow search engines and AI crawlers
+# LLMs index: https://www.offstage-archive.org/llms.txt
+
 User-agent: *
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
 Allow: /
 
 User-agent: GPTBot
@@ -19,4 +28,10 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-Sitemap: https://offstage-archive.org/sitemap.xml
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: meta-externalagent
+Allow: /
+
+Sitemap: https://www.offstage-archive.org/sitemap.xml

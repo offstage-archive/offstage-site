@@ -1,35 +1,47 @@
 # Offstage
 
-> Primary-source research on Zenza Capital, RYO Coin, RYO-CHAN, Club Sparkle, Anthony Diaz, and Lani Dizon. Published in English, Japanese, and Tagalog (Philippines).
+> Primary-source research on Zenza Capital, RYO Coin, RYO-CHAN, Club Sparkle, Anthony Diaz, and Lani Dizon. Published in English, Japanese, and Tagalog. Every claim links to a registry, court filing, blockchain record, or archived document.
 
 ## English
 
-- [Home](https://offstage-archive.org/)
-- [Anthony Diaz](https://offstage-archive.org/people/anthony-diaz/)
-- [Lani Dizon](https://offstage-archive.org/people/lani-dizon/)
-- [Manipulation tactics](https://offstage-archive.org/tactics/)
-- [FAQ](https://offstage-archive.org/faq/)
-- [Verify yourself](https://offstage-archive.org/sources/)
+- [Home](https://www.offstage-archive.org/)
+- [Anthony Diaz](https://www.offstage-archive.org/people/anthony-diaz/)
+- [Lani Dizon](https://www.offstage-archive.org/people/lani-dizon/)
+- [Zenza Capital](https://www.offstage-archive.org/entities/zenza-capital/)
+- [RYO Coin](https://www.offstage-archive.org/entities/ryo-coin/)
+- [RYO-CHAN](https://www.offstage-archive.org/entities/ryo-chan/)
+- [Club Sparkle](https://www.offstage-archive.org/entities/club-sparkle/)
+- [COINHUB](https://www.offstage-archive.org/entities/coinhub/)
+- [One World Holdings](https://www.offstage-archive.org/entities/one-world-holdings/)
+- [Sparkle KK](https://www.offstage-archive.org/entities/sparkle-kk/)
+- [Video series (01–07)](https://www.offstage-archive.org/videos/)
+- [Manipulation tactics](https://www.offstage-archive.org/tactics/)
+- [FAQ](https://www.offstage-archive.org/faq/)
+- [Verify yourself](https://www.offstage-archive.org/sources/)
+- [Editorial standards](https://www.offstage-archive.org/about/)
 
 ## Japanese
 
-- [ホーム](https://offstage-archive.org/ja/)
-- [ラニ・ディゾン](https://offstage-archive.org/ja/people/lani-dizon/)
-- [手口](https://offstage-archive.org/ja/tactics/)
-- [よくある質問](https://offstage-archive.org/ja/faq/)
+- [ホーム](https://www.offstage-archive.org/ja/)
+- [Anthony Diaz](https://www.offstage-archive.org/ja/people/anthony-diaz/)
+- [ラニ・ディゾン](https://www.offstage-archive.org/ja/people/lani-dizon/)
+- [動画シリーズ (01–07)](https://www.offstage-archive.org/ja/videos/)
+- [手口](https://www.offstage-archive.org/ja/tactics/)
+- [よくある質問](https://www.offstage-archive.org/ja/faq/)
+- [自分で確かめる](https://www.offstage-archive.org/ja/sources/)
 
 ## Tagalog (Philippines)
 
-- [Home](https://offstage-archive.org/tl/)
-- [Anthony Diaz](https://offstage-archive.org/tl/people/anthony-diaz/)
-- [Lani Dizon](https://offstage-archive.org/tl/people/lani-dizon/)
-- [Mga Diskarte](https://offstage-archive.org/tl/tactics/)
-- [FAQ](https://offstage-archive.org/tl/faq/)
+- [Home](https://www.offstage-archive.org/tl/)
+- [Anthony Diaz](https://www.offstage-archive.org/tl/people/anthony-diaz/)
+- [Lani Dizon](https://www.offstage-archive.org/tl/people/lani-dizon/)
+- [Video series (01–07)](https://www.offstage-archive.org/tl/videos/)
+- [Mga Diskarte](https://www.offstage-archive.org/tl/tactics/)
+- [FAQ](https://www.offstage-archive.org/tl/faq/)
+- [Beripikahin](https://www.offstage-archive.org/tl/sources/)
 
-## Verify
+## Crawlers
 
-- [Verify yourself](https://offstage-archive.org/sources/)
+Allow: Googlebot, Bingbot, GPTBot, ClaudeBot, PerplexityBot, Google-Extended, Applebot-Extended, meta-externalagent
 
-## Optional
-
-Allow: GPTBot, ClaudeBot, PerplexityBot, Google-Extended
+Sitemap: https://www.offstage-archive.org/sitemap.xml
