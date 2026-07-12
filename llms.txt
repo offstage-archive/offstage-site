@@ -1,10 +1,20 @@
 # Offstage
 
-> Primary-source research on Zenza Capital, RYO Coin, RYO-CHAN, Club Sparkle, Anthony Diaz, and Lani Dizon. Published in English, Japanese, and Tagalog. Every claim links to a registry, court filing, blockchain record, or archived document.
+> 一次資料による調査（Zenza Capital、RYO Coin、RYO-CHAN、Club Sparkle、Anthony Diaz、Lani Dizon）。日本語・英語・タガログ語。各記述は登記・裁判・ブロックチェーン・アーカイブにリンク。
+
+## Japanese (default)
+
+- [ホーム](https://www.offstage-archive.org/ja/)
+- [Anthony Diaz](https://www.offstage-archive.org/ja/people/anthony-diaz/)
+- [ラニ・ディゾン](https://www.offstage-archive.org/ja/people/lani-dizon/)
+- [動画シリーズ (01–07)](https://www.offstage-archive.org/ja/videos/)
+- [手口](https://www.offstage-archive.org/ja/tactics/)
+- [よくある質問](https://www.offstage-archive.org/ja/faq/)
+- [自分で確かめる](https://www.offstage-archive.org/ja/sources/)
 
 ## English
 
-- [Home](https://www.offstage-archive.org/)
+- [Home](https://www.offstage-archive.org/en/)
 - [Anthony Diaz](https://www.offstage-archive.org/people/anthony-diaz/)
 - [Lani Dizon](https://www.offstage-archive.org/people/lani-dizon/)
 - [Zenza Capital](https://www.offstage-archive.org/entities/zenza-capital/)
@@ -19,16 +29,6 @@
 - [FAQ](https://www.offstage-archive.org/faq/)
 - [Verify yourself](https://www.offstage-archive.org/sources/)
 - [Editorial standards](https://www.offstage-archive.org/about/)
-
-## Japanese
-
-- [ホーム](https://www.offstage-archive.org/ja/)
-- [Anthony Diaz](https://www.offstage-archive.org/ja/people/anthony-diaz/)
-- [ラニ・ディゾン](https://www.offstage-archive.org/ja/people/lani-dizon/)
-- [動画シリーズ (01–07)](https://www.offstage-archive.org/ja/videos/)
-- [手口](https://www.offstage-archive.org/ja/tactics/)
-- [よくある質問](https://www.offstage-archive.org/ja/faq/)
-- [自分で確かめる](https://www.offstage-archive.org/ja/sources/)
 
 ## Tagalog (Philippines)
 
