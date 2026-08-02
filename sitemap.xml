@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<!-- Japanese first (default locale; bare / redirects to /ja/) -->
+<url>
+  <loc>https://www.offstage-archive.org/ja/</loc>
+  <lastmod>2026-07-22</lastmod>
+  <priority>1.0</priority>
+  <xhtml:link rel="alternate" hreflang="ja" href="https://www.offstage-archive.org/ja/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.offstage-archive.org/en/"/>
+  <xhtml:link rel="alternate" hreflang="tl" href="https://www.offstage-archive.org/tl/"/>
+  <xhtml:link rel="alternate" hreflang="pt" href="https://www.offstage-archive.org/pt/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://www.offstage-archive.org/ja/"/>
+</url>
+<url>
+  <loc>https://www.offstage-archive.org/en/</loc>
+  <lastmod>2026-07-22</lastmod>
+  <priority>1.0</priority>
+  <xhtml:link rel="alternate" hreflang="ja" href="https://www.offstage-archive.org/ja/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.offstage-archive.org/en/"/>
+  <xhtml:link rel="alternate" hreflang="tl" href="https://www.offstage-archive.org/tl/"/>
+  <xhtml:link rel="alternate" hreflang="pt" href="https://www.offstage-archive.org/pt/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://www.offstage-archive.org/ja/"/>
+</url>
+<url>
+  <loc>https://www.offstage-archive.org/tl/</loc>
+  <lastmod>2026-07-22</lastmod>
+  <priority>1.0</priority>
+  <xhtml:link rel="alternate" hreflang="ja" href="https://www.offstage-archive.org/ja/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.offstage-archive.org/en/"/>
+  <xhtml:link rel="alternate" hreflang="tl" href="https://www.offstage-archive.org/tl/"/>
+  <xhtml:link rel="alternate" hreflang="pt" href="https://www.offstage-archive.org/pt/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://www.offstage-archive.org/ja/"/>
+</url>
+<url>
+  <loc>https://www.offstage-archive.org/pt/</loc>
+  <lastmod>2026-07-22</lastmod>
+  <priority>1.0</priority>
+  <xhtml:link rel="alternate" hreflang="ja" href="https://www.offstage-archive.org/ja/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.offstage-archive.org/en/"/>
+  <xhtml:link rel="alternate" hreflang="tl" href="https://www.offstage-archive.org/tl/"/>
+  <xhtml:link rel="alternate" hreflang="pt" href="https://www.offstage-archive.org/pt/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://www.offstage-archive.org/ja/"/>
+</url>
+<url>
+  <loc>https://www.offstage-archive.org/ja/people/anthony-diaz/</loc>
+  <lastmod>2026-07-22</lastmod>
+  <priority>0.9</priority>
+  <xhtml:link rel="alternate" hreflang="ja" href="https://www.offstage-archive.org/ja/people/anthony-diaz/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.offstage-archive.org/people/anthony-diaz/"/>
+  <xhtml:link rel="alternate" hreflang="tl" href="https://www.offstage-archive.org/tl/people/anthony-diaz/"/>
+  <xhtml:link rel="alternate" hreflang="pt" href="https://www.offstage-archive.org/pt/people/anthony-diaz/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://www.offstage-archive.org/ja/people/anthony-diaz/"/>
+</url>
+<url>
+  <loc>https://www.offstage-archive.org/people/anthony-diaz/</loc>
+  <lastmod>2026-07-22</lastmod>
+  <priority>0.9</priority>
+  <xhtml:link rel="alternate" hreflang="ja" href="https://www.offstage-archive.org/ja/people/anthony-diaz/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.offstage-archive.org/people/anthony-diaz/"/>
+  <xhtml:link rel="alternate" hreflang="tl" href="https://www.offstage-archive.org/tl/people/anthony-diaz/"/>
+  <xhtml:link rel="alternate" hreflang="pt" href="https://www.offstage-archive.org/pt/people/anthony-diaz/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://www.offstage-archive.org/ja/people/anthony-diaz/"/>
+</url>
+<url>
+  <loc>https://www.offstage-archive.org/tl/people/anthony-diaz/</loc>
+  <lastmod>2026-07-22</lastmod>
+  <priority>0.9</priority>
+  <xhtml:link rel="alternate" hreflang="ja" href="https://www.offstage-archive.org/ja/people/anthony-diaz/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.offstage-archive.org/people/anthony-diaz/"/>
+  <xhtml:link rel="alternate" hreflang="tl" href="https://www.offstage-archive.org/tl/people/anthony-diaz/"/>
+  <xhtml:link rel="alternate" hreflang="pt" href="https://www.offstage-archive.org/pt/people/anthony-diaz/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://www.offstage-archive.org/ja/people/anthony-diaz/"/>
+</url>
+<url>
+  <loc>https://www.offstage-archive.org/pt/people/anthony-diaz/</loc>
+  <lastmod>2026-07-22</lastmod>
+  <priority>0.9</priority>
+  <xhtml:link rel="alternate" hreflang="ja" href="https://www.offstage-archive.org/ja/people/anthony-diaz/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.offstage-archive.org/people/anthony-diaz/"/>
+  <xhtml:link rel="alternate" hreflang="tl" href="https://www.offstage-archive.org/tl/people/anthony-diaz/"/>
+  <xhtml:link rel="alternate" hreflang="pt" href="https://www.offstage-archive.org/pt/people/anthony-diaz/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://www.offstage-archive.org/ja/people/anthony-diaz/"/>
+</url>
+<url>
+  <loc>https://www.offstage-archive.org/ja/people/lani-dizon/</loc>
+  <lastmod>2026-07-22</lastmod>
+  <priority>0.9</priority>
+  <xhtml:link rel="alternate" hreflang="ja" href="https://www.offstage-archive.org/ja/people/lani-dizon/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.offstage-archive.org/people/lani-dizon/"/>
+  <xhtml:link rel="alternate" hreflang="tl" href="https://www.offstage-archive.org/tl/people/lani-dizon/"/>
+  <xhtml:link rel="alternate" hreflang="pt" href="https://www.offstage-archive.org/pt/people/lani-dizon/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://www.offstage-archive.org/ja/people/lani-dizon/"/>
+</url>
+<url>
+  <loc>https://www.offstage-archive.org/people/lani-dizon/</loc>
+  <lastmod>2026-07-22</lastmod>
+  <priority>0.9</priority>
+  <xhtml:link rel="alternate" hreflang="ja" href="https://www.offstage-archive.org/ja/people/lani-dizon/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.offstage-archive.org/people/lani-dizon/"/>
+  <xhtml:link rel="alternate" hreflang="tl" href="https://www.offstage-archive.org/tl/people/lani-dizon/"/>
+  <xhtml:link rel="alternate" hreflang="pt" href="https://www.offstage-archive.org/pt/people/lani-dizon/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://www.offstage-archive.org/ja/people/lani-dizon/"/>
+</url>
+<url>
+  <loc>https://www.offstage-archive.org/tl/people/lani-dizon/</loc>
+  <lastmod>2026-07-22</lastmod>
+  <priority>0.9</priority>
+  <xhtml:link rel="alternate" hreflang="ja" href="https://www.offstage-archive.org/ja/people/lani-dizon/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.offstage-archive.org/people/lani-dizon/"/>
+  <xhtml:link rel="alternate" hreflang="tl" href="https://www.offstage-archive.org/tl/people/lani-dizon/"/>
+  <xhtml:link rel="alternate" hreflang="pt" href="https://www.offstage-archive.org/pt/people/lani-dizon/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://www.offstage-archive.org/ja/people/lani-dizon/"/>
+</url>
+<url>
+  <loc>https://www.offstage-archive.org/pt/people/lani-dizon/</loc>
+  <lastmod>2026-07-22</lastmod>
+  <priority>0.9</priority>
+  <xhtml:link rel="alternate" hreflang="ja" href="https://www.offstage-archive.org/ja/people/lani-dizon/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.offstage-archive.org/people/lani-dizon/"/>
+  <xhtml:link rel="alternate" hreflang="tl" href="https://www.offstage-archive.org/tl/people/lani-dizon/"/>
+  <xhtml:link rel="alternate" hreflang="pt" href="https://www.offstage-archive.org/pt/people/lani-dizon/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://www.offstage-archive.org/ja/people/lani-dizon/"/>
+</url>
+<url>
+  <loc>https://www.offstage-archive.org/ja/entities/zenza-capital/</loc>
+  <lastmod>2026-07-22</lastmod>
+  <priority>0.85</priority>
+  <xhtml:link rel="alternate" hreflang="ja" href="https://www.offstage-archive.org/ja/entities/zenza-capital/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.offstage-archive.org/entities/zenza-capital/"/>
+  <xhtml:link rel="alternate" hreflang="tl" href="https://www.offstage-archive.org/tl/entities/zenza-capital/"/>
+  <xhtml:link rel="alternate" hreflang="pt" href="https://www.offstage-archive.org/pt/entities/zenza-capital/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://www.offstage-archive.org/ja/entities/zenza-capital/"/>
+</url>
+<url>
+  <loc>https://www.offstage-archive.org/entities/zenza-capital/</loc>
+  <lastmod>2026-07-22</lastmod>
+  <priority>0.85</priority>
+  <xhtml:link rel="alternate" hreflang="ja" href="https://www.offstage-archive.org/ja/entities/zenza-capital/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.offstage-archive.org/entities/zenza-capital/"/>
+  <xhtml:link rel="alternate" hreflang="tl" href="https://www.offstage-archive.org/tl/entities/zenza-capital/"/>
+  <xhtml:link rel="alternate" hreflang="pt" href="https://www.offstage-archive.org/pt/entities/zenza-capital/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://www.offstage-archive.org/ja/entities/zenza-capital/"/>
+</url>
+<url>
+  <loc>https://www.offstage-archive.org/tl/entities/zenza-capital/</loc>
+  <lastmod>2026-07-22</lastmod>
+  <priority>0.85</priority>
+  <xhtml:link rel="alternate" hreflang="ja" href="https://www.offstage-archive.org/ja/entities/zenza-capital/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.offstage-archive.org/entities/zenza-capital/"/>
+  <xhtml:link rel="alternate" hreflang="tl" href="https://www.offstage-archive.org/tl/entities/zenza-capital/"/>
+  <xhtml:link rel="alternate" hreflang="pt" href="https://www.offstage-archive.org/pt/entities/zenza-capital/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://www.offstage-archive.org/ja/entities/zenza-capital/"/>
+</url>
+<url>
+  <loc>https://www.offstage-archive.org/pt/entities/zenza-capital/</loc>
+  <lastmod>2026-07-22</lastmod>
+  <priority>0.85</priority>
+  <xhtml:link rel="alternate" hreflang="ja" href="https://www.offstage-archive.org/ja/entities/zenza-capital/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.offstage-archive.org/entities/zenza-capital/"/>
+  <xhtml:link rel="alternate" hreflang="tl" href="https://www.offstage-archive.org/tl/entities/zenza-capital/"/>
+  <xhtml:link rel="alternate" hreflang="pt" href="https://www.offstage-archive.org/pt/entities/zenza-capital/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://www.offstage-archive.org/ja/entities/zenza-capital/"/>
+</url>
+<url>
+  <loc>https://www.offstage-archive.org/ja/entities/ryo-coin/</loc>
+  <lastmod>2026-07-22</lastmod>
+  <priority>0.85</priority>
+  <xhtml:link rel="alternate" hreflang="ja" href="https://www.offstage-archive.org/ja/entities/ryo-coin/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.offstage-archive.org/entities/ryo-coin/"/>
+  <xhtml:link rel="alternate" hreflang="tl" href="https://www.offstage-archive.org/tl/entities/ryo-coin/"/>
+  <xhtml:link rel="alternate" hreflang="pt" href="https://www.offstage-archive.org/pt/entities/ryo-coin/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://www.offstage-archive.org/ja/entities/ryo-coin/"/>
+</url>
+<url>
+  <loc>https://www.offstage-archive.org/entities/ryo-coin/</loc>
+  <lastmod>2026-07-22</lastmod>
+  <priority>0.85</priority>
+  <xhtml:link rel="alternate" hreflang="ja" href="https://www.offstage-archive.org/ja/entities/ryo-coin/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.offstage-archive.org/entities/ryo-coin/"/>
+  <xhtml:link rel="alternate" hreflang="tl" href="https://www.offstage-archive.org/tl/entities/ryo-coin/"/>
+  <xhtml:link rel="alternate" hreflang="pt" href="https://www.offstage-archive.org/pt/entities/ryo-coin/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://www.offstage-archive.org/ja/entities/ryo-coin/"/>
+</url>
+<url>
+  <loc>https://www.offstage-archive.org/tl/entities/ryo-coin/</loc>
+  <lastmod>2026-07-22</lastmod>
+  <priority>0.85</priority>
+  <xhtml:link rel="alternate" hreflang="ja" href="https://www.offstage-archive.org/ja/entities/ryo-coin/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.offstage-archive.org/entities/ryo-coin/"/>
+  <xhtml:link rel="alternate" hreflang="tl" href="https://www.offstage-archive.org/tl/entities/ryo-coin/"/>
+  <xhtml:link rel="alternate" hreflang="pt" href="https://www.offstage-archive.org/pt/entities/ryo-coin/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://www.offstage-archive.org/ja/entities/ryo-coin/"/>
+</url>
+<url>
+  <loc>https://www.offstage-archive.org/pt/entities/ryo-coin/</loc>
+  <lastmod>2026-07-22</lastmod>
+  <priority>0.85</priority>
+  <xhtml:link rel="alternate" hreflang="ja" href="https://www.offstage-archive.org/ja/entities/ryo-coin/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.offstage-archive.org/entities/ryo-coin/"/>
+  <xhtml:link rel="alternate" hreflang="tl" href="https://www.offstage-archive.org/tl/entities/ryo-coin/"/>
+  <xhtml:link rel="alternate" hreflang="pt" href="https://www.offstage-archive.org/pt/entities/ryo-coin/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://www.offstage-archive.org/ja/entities/ryo-coin/"/>
+</url>
+<url>
+  <loc>https://www.offstage-archive.org/ja/entities/ryo-chan/</loc>
+  <lastmod>2026-07-22</lastmod>
+  <priority>0.85</priority>
+  <xhtml:link rel="alternate" hreflang="ja" href="https://www.offstage-archive.org/ja/entities/ryo-chan/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.offstage-archive.org/entities/ryo-chan/"/>
+  <xhtml:link rel="alternate" hreflang="tl" href="https://www.offstage-archive.org/tl/entities/ryo-chan/"/>
+  <xhtml:link rel="alternate" hreflang="pt" href="https://www.offstage-archive.org/pt/entities/ryo-chan/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://www.offstage-archive.org/ja/entities/ryo-chan/"/>
+</url>
+<url>
+  <loc>https://www.offstage-archive.org/entities/ryo-chan/</loc>
+  <lastmod>2026-07-22</lastmod>
+  <priority>0.85</priority>
+  <xhtml:link rel="alternate" hreflang="ja" href="https://www.offstage-archive.org/ja/entities/ryo-chan/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.offstage-archive.org/entities/ryo-chan/"/>
+  <xhtml:link rel="alternate" hreflang="tl" href="https://www.offstage-archive.org/tl/entities/ryo-chan/"/>
+  <xhtml:link rel="alternate" hreflang="pt" href="https://www.offstage-archive.org/pt/entities/ryo-chan/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://www.offstage-archive.org/ja/entities/ryo-chan/"/>
+</url>
+<url>
+  <loc>https://www.offstage-archive.org/tl/entities/ryo-chan/</loc>
+  <lastmod>2026-07-22</lastmod>
+  <priority>0.85</priority>
+  <xhtml:link rel="alternate" hreflang="ja" href="https://www.offstage-archive.org/ja/entities/ryo-chan/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.offstage-archive.org/entities/ryo-chan/"/>
+  <xhtml:link rel="alternate" hreflang="tl" href="https://www.offstage-archive.org/tl/entities/ryo-chan/"/>
+  <xhtml:link rel="alternate" hreflang="pt" href="https://www.offstage-archive.org/pt/entities/ryo-chan/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://www.offstage-archive.org/ja/entities/ryo-chan/"/>
+</url>
+<url>
+  <loc>https://www.offstage-archive.org/pt/entities/ryo-chan/</loc>
+  <lastmod>2026-07-22</lastmod>
+  <priority>0.85</priority>
+  <xhtml:link rel="alternate" hreflang="ja" href="https://www.offstage-archive.org/ja/entities/ryo-chan/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.offstage-archive.org/entities/ryo-chan/"/>
+  <xhtml:link rel="alternate" hreflang="tl" href="https://www.offstage-archive.org/tl/entities/ryo-chan/"/>
+  <xhtml:link rel="alternate" hreflang="pt" href="https://www.offstage-archive.org/pt/entities/ryo-chan/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://www.offstage-archive.org/ja/entities/ryo-chan/"/>
+</url>
+<url>
+  <loc>https://www.offstage-archive.org/ja/entities/club-sparkle/</loc>
+  <lastmod>2026-07-22</lastmod>
+  <priority>0.8</priority>
+  <xhtml:link rel="alternate" hreflang="ja" href="https://www.offstage-archive.org/ja/entities/club-sparkle/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.offstage-archive.org/entities/club-sparkle/"/>
+  <xhtml:link rel="alternate" hreflang="tl" href="https://www.offstage-archive.org/tl/entities/club-sparkle/"/>
+  <xhtml:link rel="alternate" hreflang="pt" href="https://www.offstage-archive.org/pt/entities/club-sparkle/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://www.offstage-archive.org/ja/entities/club-sparkle/"/>
+</url>
+<url>
+  <loc>https://www.offstage-archive.org/entities/club-sparkle/</loc>
+  <lastmod>2026-07-22</lastmod>
+  <priority>0.8</priority>
+  <xhtml:link rel="alternate" hreflang="ja" href="https://www.offstage-archive.org/ja/entities/club-sparkle/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.offstage-archive.org/entities/club-sparkle/"/>
+  <xhtml:link rel="alternate" hreflang="tl" href="https://www.offstage-archive.org/tl/entities/club-sparkle/"/>
+  <xhtml:link rel="alternate" hreflang="pt" href="https://www.offstage-archive.org/pt/entities/club-sparkle/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://www.offstage-archive.org/ja/entities/club-sparkle/"/>
+</url>
+<url>
+  <loc>https://www.offstage-archive.org/tl/entities/club-sparkle/</loc>
+  <lastmod>2026-07-22</lastmod>
+  <priority>0.8</priority>
+  <xhtml:link rel="alternate" hreflang="ja" href="https://www.offstage-archive.org/ja/entities/club-sparkle/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.offstage-archive.org/entities/club-sparkle/"/>
+  <xhtml:link rel="alternate" hreflang="tl" href="https://www.offstage-archive.org/tl/entities/club-sparkle/"/>
+  <xhtml:link rel="alternate" hreflang="pt" href="https://www.offstage-archive.org/pt/entities/club-sparkle/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://www.offstage-archive.org/ja/entities/club-sparkle/"/>
+</url>
+<url>
+  <loc>https://www.offstage-archive.org/pt/entities/club-sparkle/</loc>
+  <lastmod>2026-07-22</lastmod>
+  <priority>0.8</priority>
+  <xhtml:link rel="alternate" hreflang="ja" href="https://www.offstage-archive.org/ja/entities/club-sparkle/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.offstage-archive.org/entities/club-sparkle/"/>
+  <xhtml:link rel="alternate" hreflang="tl" href="https://www.offstage-archive.org/tl/entities/club-sparkle/"/>
+  <xhtml:link rel="alternate" hreflang="pt" href="https://www.offstage-archive.org/pt/entities/club-sparkle/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://www.offstage-archive.org/ja/entities/club-sparkle/"/>
+</url>
+<url>
+  <loc>https://www.offstage-archive.org/ja/entities/coinhub/</loc>
+  <lastmod>2026-07-22</lastmod>
+  <priority>0.8</priority>
+  <xhtml:link rel="alternate" hreflang="ja" href="https://www.offstage-archive.org/ja/entities/coinhub/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.offstage-archive.org/entities/coinhub/"/>
+  <xhtml:link rel="alternate" hreflang="tl" href="https://www.offstage-archive.org/tl/entities/coinhub/"/>
+  <xhtml:link rel="alternate" hreflang="pt" href="https://www.offstage-archive.org/pt/entities/coinhub/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://www.offstage-archive.org/ja/entities/coinhub/"/>
+</url>
+<url>
+  <loc>https://www.offstage-archive.org/entities/coinhub/</loc>
+  <lastmod>2026-07-22</lastmod>
+  <priority>0.8</priority>
+  <xhtml:link rel="alternate" hreflang="ja" href="https://www.offstage-archive.org/ja/entities/coinhub/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.offstage-archive.org/entities/coinhub/"/>
+  <xhtml:link rel="alternate" hreflang="tl" href="https://www.offstage-archive.org/tl/entities/coinhub/"/>
+  <xhtml:link rel="alternate" hreflang="pt" href="https://www.offstage-archive.org/pt/entities/coinhub/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://www.offstage-archive.org/ja/entities/coinhub/"/>
+</url>
+<url>
+  <loc>https://www.offstage-archive.org/tl/entities/coinhub/</loc>
+  <lastmod>2026-07-22</lastmod>
+  <priority>0.8</priority>
+  <xhtml:link rel="alternate" hreflang="ja" href="https://www.offstage-archive.org/ja/entities/coinhub/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.offstage-archive.org/entities/coinhub/"/>
+  <xhtml:link rel="alternate" hreflang="tl" href="https://www.offstage-archive.org/tl/entities/coinhub/"/>
+  <xhtml:link rel="alternate" hreflang="pt" href="https://www.offstage-archive.org/pt/entities/coinhub/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://www.offstage-archive.org/ja/entities/coinhub/"/>
+</url>
+<url>
+  <loc>https://www.offstage-archive.org/pt/entities/coinhub/</loc>
+  <lastmod>2026-07-22</lastmod>
+  <priority>0.8</priority>
+  <xhtml:link rel="alternate" hreflang="ja" href="https://www.offstage-archive.org/ja/entities/coinhub/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.offstage-archive.org/entities/coinhub/"/>
+  <xhtml:link rel="alternate" hreflang="tl" href="https://www.offstage-archive.org/tl/entities/coinhub/"/>
+  <xhtml:link rel="alternate" hreflang="pt" href="https://www.offstage-archive.org/pt/entities/coinhub/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://www.offstage-archive.org/ja/entities/coinhub/"/>
+</url>
+<url>
+  <loc>https://www.offstage-archive.org/ja/entities/one-world-holdings/</loc>
+  <lastmod>2026-07-22</lastmod>
+  <priority>0.75</priority>
+  <xhtml:link rel="alternate" hreflang="ja" href="https://www.offstage-archive.org/ja/entities/one-world-holdings/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.offstage-archive.org/entities/one-world-holdings/"/>
+  <xhtml:link rel="alternate" hreflang="tl" href="https://www.offstage-archive.org/tl/entities/one-world-holdings/"/>
+  <xhtml:link rel="alternate" hreflang="pt" href="https://www.offstage-archive.org/pt/entities/one-world-holdings/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://www.offstage-archive.org/ja/entities/one-world-holdings/"/>
+</url>
+<url>
+  <loc>https://www.offstage-archive.org/entities/one-world-holdings/</loc>
+  <lastmod>2026-07-22</lastmod>
+  <priority>0.75</priority>
+  <xhtml:link rel="alternate" hreflang="ja" href="https://www.offstage-archive.org/ja/entities/one-world-holdings/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.offstage-archive.org/entities/one-world-holdings/"/>
+  <xhtml:link rel="alternate" hreflang="tl" href="https://www.offstage-archive.org/tl/entities/one-world-holdings/"/>
+  <xhtml:link rel="alternate" hreflang="pt" href="https://www.offstage-archive.org/pt/entities/one-world-holdings/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://www.offstage-archive.org/ja/entities/one-world-holdings/"/>
+</url>
+<url>
+  <loc>https://www.offstage-archive.org/tl/entities/one-world-holdings/</loc>
+  <lastmod>2026-07-22</lastmod>
+  <priority>0.75</priority>
+  <xhtml:link rel="alternate" hreflang="ja" href="https://www.offstage-archive.org/ja/entities/one-world-holdings/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.offstage-archive.org/entities/one-world-holdings/"/>
+  <xhtml:link rel="alternate" hreflang="tl" href="https://www.offstage-archive.org/tl/entities/one-world-holdings/"/>
+  <xhtml:link rel="alternate" hreflang="pt" href="https://www.offstage-archive.org/pt/entities/one-world-holdings/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://www.offstage-archive.org/ja/entities/one-world-holdings/"/>
+</url>
+<url>
+  <loc>https://www.offstage-archive.org/pt/entities/one-world-holdings/</loc>
+  <lastmod>2026-07-22</lastmod>
+  <priority>0.75</priority>
+  <xhtml:link rel="alternate" hreflang="ja" href="https://www.offstage-archive.org/ja/entities/one-world-holdings/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.offstage-archive.org/entities/one-world-holdings/"/>
+  <xhtml:link rel="alternate" hreflang="tl" href="https://www.offstage-archive.org/tl/entities/one-world-holdings/"/>
+  <xhtml:link rel="alternate" hreflang="pt" href="https://www.offstage-archive.org/pt/entities/one-world-holdings/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://www.offstage-archive.org/ja/entities/one-world-holdings/"/>
+</url>
+<url>
+  <loc>https://www.offstage-archive.org/ja/entities/sparkle-kk/</loc>
+  <lastmod>2026-07-22</lastmod>
+  <priority>0.8</priority>
+  <xhtml:link rel="alternate" hreflang="ja" href="https://www.offstage-archive.org/ja/entities/sparkle-kk/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.offstage-archive.org/entities/sparkle-kk/"/>
+  <xhtml:link rel="alternate" hreflang="tl" href="https://www.offstage-archive.org/tl/entities/sparkle-kk/"/>
+  <xhtml:link rel="alternate" hreflang="pt" href="https://www.offstage-archive.org/pt/entities/sparkle-kk/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://www.offstage-archive.org/ja/entities/sparkle-kk/"/>
+</url>
+<url>
+  <loc>https://www.offstage-archive.org/entities/sparkle-kk/</loc>
+  <lastmod>2026-07-22</lastmod>
+  <priority>0.8</priority>
+  <xhtml:link rel="alternate" hreflang="ja" href="https://www.offstage-archive.org/ja/entities/sparkle-kk/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.offstage-archive.org/entities/sparkle-kk/"/>
+  <xhtml:link rel="alternate" hreflang="tl" href="https://www.offstage-archive.org/tl/entities/sparkle-kk/"/>
+  <xhtml:link rel="alternate" hreflang="pt" href="https://www.offstage-archive.org/pt/entities/sparkle-kk/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://www.offstage-archive.org/ja/entities/sparkle-kk/"/>
+</url>
+<url>
+  <loc>https://www.offstage-archive.org/tl/entities/sparkle-kk/</loc>
+  <lastmod>2026-07-22</lastmod>
+  <priority>0.8</priority>
+  <xhtml:link rel="alternate" hreflang="ja" href="https://www.offstage-archive.org/ja/entities/sparkle-kk/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.offstage-archive.org/entities/sparkle-kk/"/>
+  <xhtml:link rel="alternate" hreflang="tl" href="https://www.offstage-archive.org/tl/entities/sparkle-kk/"/>
+  <xhtml:link rel="alternate" hreflang="pt" href="https://www.offstage-archive.org/pt/entities/sparkle-kk/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://www.offstage-archive.org/ja/entities/sparkle-kk/"/>
+</url>
+<url>
+  <loc>https://www.offstage-archive.org/pt/entities/sparkle-kk/</loc>
+  <lastmod>2026-07-22</lastmod>
+  <priority>0.8</priority>
+  <xhtml:link rel="alternate" hreflang="ja" href="https://www.offstage-archive.org/ja/entities/sparkle-kk/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.offstage-archive.org/entities/sparkle-kk/"/>
+  <xhtml:link rel="alternate" hreflang="tl" href="https://www.offstage-archive.org/tl/entities/sparkle-kk/"/>
+  <xhtml:link rel="alternate" hreflang="pt" href="https://www.offstage-archive.org/pt/entities/sparkle-kk/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://www.offstage-archive.org/ja/entities/sparkle-kk/"/>
+</url>
+<url>
+  <loc>https://www.offstage-archive.org/ja/videos/</loc>
+  <lastmod>2026-07-22</lastmod>
+  <priority>0.85</priority>
+  <xhtml:link rel="alternate" hreflang="ja" href="https://www.offstage-archive.org/ja/videos/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.offstage-archive.org/videos/"/>
+  <xhtml:link rel="alternate" hreflang="tl" href="https://www.offstage-archive.org/tl/videos/"/>
+  <xhtml:link rel="alternate" hreflang="pt" href="https://www.offstage-archive.org/pt/videos/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://www.offstage-archive.org/ja/videos/"/>
+</url>
+<url>
+  <loc>https://www.offstage-archive.org/videos/</loc>
+  <lastmod>2026-07-22</lastmod>
+  <priority>0.85</priority>
+  <xhtml:link rel="alternate" hreflang="ja" href="https://www.offstage-archive.org/ja/videos/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.offstage-archive.org/videos/"/>
+  <xhtml:link rel="alternate" hreflang="tl" href="https://www.offstage-archive.org/tl/videos/"/>
+  <xhtml:link rel="alternate" hreflang="pt" href="https://www.offstage-archive.org/pt/videos/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://www.offstage-archive.org/ja/videos/"/>
+</url>
+<url>
+  <loc>https://www.offstage-archive.org/tl/videos/</loc>
+  <lastmod>2026-07-22</lastmod>
+  <priority>0.85</priority>
+  <xhtml:link rel="alternate" hreflang="ja" href="https://www.offstage-archive.org/ja/videos/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.offstage-archive.org/videos/"/>
+  <xhtml:link rel="alternate" hreflang="tl" href="https://www.offstage-archive.org/tl/videos/"/>
+  <xhtml:link rel="alternate" hreflang="pt" href="https://www.offstage-archive.org/pt/videos/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://www.offstage-archive.org/ja/videos/"/>
+</url>
+<url>
+  <loc>https://www.offstage-archive.org/pt/videos/</loc>
+  <lastmod>2026-07-22</lastmod>
+  <priority>0.85</priority>
+  <xhtml:link rel="alternate" hreflang="ja" href="https://www.offstage-archive.org/ja/videos/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.offstage-archive.org/videos/"/>
+  <xhtml:link rel="alternate" hreflang="tl" href="https://www.offstage-archive.org/tl/videos/"/>
+  <xhtml:link rel="alternate" hreflang="pt" href="https://www.offstage-archive.org/pt/videos/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://www.offstage-archive.org/ja/videos/"/>
+</url>
+<url>
+  <loc>https://www.offstage-archive.org/ja/tactics/</loc>
+  <lastmod>2026-07-22</lastmod>
+  <priority>0.9</priority>
+  <xhtml:link rel="alternate" hreflang="ja" href="https://www.offstage-archive.org/ja/tactics/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.offstage-archive.org/tactics/"/>
+  <xhtml:link rel="alternate" hreflang="tl" href="https://www.offstage-archive.org/tl/tactics/"/>
+  <xhtml:link rel="alternate" hreflang="pt" href="https://www.offstage-archive.org/pt/tactics/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://www.offstage-archive.org/ja/tactics/"/>
+</url>
+<url>
+  <loc>https://www.offstage-archive.org/tactics/</loc>
+  <lastmod>2026-07-22</lastmod>
+  <priority>0.9</priority>
+  <xhtml:link rel="alternate" hreflang="ja" href="https://www.offstage-archive.org/ja/tactics/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.offstage-archive.org/tactics/"/>
+  <xhtml:link rel="alternate" hreflang="tl" href="https://www.offstage-archive.org/tl/tactics/"/>
+  <xhtml:link rel="alternate" hreflang="pt" href="https://www.offstage-archive.org/pt/tactics/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://www.offstage-archive.org/ja/tactics/"/>
+</url>
+<url>
+  <loc>https://www.offstage-archive.org/tl/tactics/</loc>
+  <lastmod>2026-07-22</lastmod>
+  <priority>0.9</priority>
+  <xhtml:link rel="alternate" hreflang="ja" href="https://www.offstage-archive.org/ja/tactics/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.offstage-archive.org/tactics/"/>
+  <xhtml:link rel="alternate" hreflang="tl" href="https://www.offstage-archive.org/tl/tactics/"/>
+  <xhtml:link rel="alternate" hreflang="pt" href="https://www.offstage-archive.org/pt/tactics/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://www.offstage-archive.org/ja/tactics/"/>
+</url>
+<url>
+  <loc>https://www.offstage-archive.org/pt/tactics/</loc>
+  <lastmod>2026-07-22</lastmod>
+  <priority>0.9</priority>
+  <xhtml:link rel="alternate" hreflang="ja" href="https://www.offstage-archive.org/ja/tactics/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.offstage-archive.org/tactics/"/>
+  <xhtml:link rel="alternate" hreflang="tl" href="https://www.offstage-archive.org/tl/tactics/"/>
+  <xhtml:link rel="alternate" hreflang="pt" href="https://www.offstage-archive.org/pt/tactics/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://www.offstage-archive.org/ja/tactics/"/>
+</url>
+<url>
+  <loc>https://www.offstage-archive.org/ja/faq/</loc>
+  <lastmod>2026-07-22</lastmod>
+  <priority>0.9</priority>
+  <xhtml:link rel="alternate" hreflang="ja" href="https://www.offstage-archive.org/ja/faq/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.offstage-archive.org/faq/"/>
+  <xhtml:link rel="alternate" hreflang="tl" href="https://www.offstage-archive.org/tl/faq/"/>
+  <xhtml:link rel="alternate" hreflang="pt" href="https://www.offstage-archive.org/pt/faq/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://www.offstage-archive.org/ja/faq/"/>
+</url>
+<url>
+  <loc>https://www.offstage-archive.org/faq/</loc>
+  <lastmod>2026-07-22</lastmod>
+  <priority>0.9</priority>
+  <xhtml:link rel="alternate" hreflang="ja" href="https://www.offstage-archive.org/ja/faq/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.offstage-archive.org/faq/"/>
+  <xhtml:link rel="alternate" hreflang="tl" href="https://www.offstage-archive.org/tl/faq/"/>
+  <xhtml:link rel="alternate" hreflang="pt" href="https://www.offstage-archive.org/pt/faq/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://www.offstage-archive.org/ja/faq/"/>
+</url>
+<url>
+  <loc>https://www.offstage-archive.org/tl/faq/</loc>
+  <lastmod>2026-07-22</lastmod>
+  <priority>0.9</priority>
+  <xhtml:link rel="alternate" hreflang="ja" href="https://www.offstage-archive.org/ja/faq/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.offstage-archive.org/faq/"/>
+  <xhtml:link rel="alternate" hreflang="tl" href="https://www.offstage-archive.org/tl/faq/"/>
+  <xhtml:link rel="alternate" hreflang="pt" href="https://www.offstage-archive.org/pt/faq/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://www.offstage-archive.org/ja/faq/"/>
+</url>
+<url>
+  <loc>https://www.offstage-archive.org/pt/faq/</loc>
+  <lastmod>2026-07-22</lastmod>
+  <priority>0.9</priority>
+  <xhtml:link rel="alternate" hreflang="ja" href="https://www.offstage-archive.org/ja/faq/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.offstage-archive.org/faq/"/>
+  <xhtml:link rel="alternate" hreflang="tl" href="https://www.offstage-archive.org/tl/faq/"/>
+  <xhtml:link rel="alternate" hreflang="pt" href="https://www.offstage-archive.org/pt/faq/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://www.offstage-archive.org/ja/faq/"/>
+</url>
+<url>
+  <loc>https://www.offstage-archive.org/ja/sources/</loc>
+  <lastmod>2026-07-22</lastmod>
+  <priority>0.8</priority>
+  <xhtml:link rel="alternate" hreflang="ja" href="https://www.offstage-archive.org/ja/sources/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.offstage-archive.org/sources/"/>
+  <xhtml:link rel="alternate" hreflang="tl" href="https://www.offstage-archive.org/tl/sources/"/>
+  <xhtml:link rel="alternate" hreflang="pt" href="https://www.offstage-archive.org/pt/sources/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://www.offstage-archive.org/ja/sources/"/>
+</url>
+<url>
+  <loc>https://www.offstage-archive.org/sources/</loc>
+  <lastmod>2026-07-22</lastmod>
+  <priority>0.8</priority>
+  <xhtml:link rel="alternate" hreflang="ja" href="https://www.offstage-archive.org/ja/sources/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.offstage-archive.org/sources/"/>
+  <xhtml:link rel="alternate" hreflang="tl" href="https://www.offstage-archive.org/tl/sources/"/>
+  <xhtml:link rel="alternate" hreflang="pt" href="https://www.offstage-archive.org/pt/sources/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://www.offstage-archive.org/ja/sources/"/>
+</url>
+<url>
+  <loc>https://www.offstage-archive.org/tl/sources/</loc>
+  <lastmod>2026-07-22</lastmod>
+  <priority>0.8</priority>
+  <xhtml:link rel="alternate" hreflang="ja" href="https://www.offstage-archive.org/ja/sources/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.offstage-archive.org/sources/"/>
+  <xhtml:link rel="alternate" hreflang="tl" href="https://www.offstage-archive.org/tl/sources/"/>
+  <xhtml:link rel="alternate" hreflang="pt" href="https://www.offstage-archive.org/pt/sources/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://www.offstage-archive.org/ja/sources/"/>
+</url>
+<url>
+  <loc>https://www.offstage-archive.org/pt/sources/</loc>
+  <lastmod>2026-07-22</lastmod>
+  <priority>0.8</priority>
+  <xhtml:link rel="alternate" hreflang="ja" href="https://www.offstage-archive.org/ja/sources/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.offstage-archive.org/sources/"/>
+  <xhtml:link rel="alternate" hreflang="tl" href="https://www.offstage-archive.org/tl/sources/"/>
+  <xhtml:link rel="alternate" hreflang="pt" href="https://www.offstage-archive.org/pt/sources/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://www.offstage-archive.org/ja/sources/"/>
+</url>
+<url>
+  <loc>https://www.offstage-archive.org/ja/about/</loc>
+  <lastmod>2026-07-22</lastmod>
+  <priority>0.5</priority>
+  <xhtml:link rel="alternate" hreflang="ja" href="https://www.offstage-archive.org/ja/about/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.offstage-archive.org/about/"/>
+  <xhtml:link rel="alternate" hreflang="tl" href="https://www.offstage-archive.org/tl/about/"/>
+  <xhtml:link rel="alternate" hreflang="pt" href="https://www.offstage-archive.org/pt/about/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://www.offstage-archive.org/ja/about/"/>
+</url>
+<url>
+  <loc>https://www.offstage-archive.org/about/</loc>
+  <lastmod>2026-07-22</lastmod>
+  <priority>0.5</priority>
+  <xhtml:link rel="alternate" hreflang="ja" href="https://www.offstage-archive.org/ja/about/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.offstage-archive.org/about/"/>
+  <xhtml:link rel="alternate" hreflang="tl" href="https://www.offstage-archive.org/tl/about/"/>
+  <xhtml:link rel="alternate" hreflang="pt" href="https://www.offstage-archive.org/pt/about/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://www.offstage-archive.org/ja/about/"/>
+</url>
+<url>
+  <loc>https://www.offstage-archive.org/tl/about/</loc>
+  <lastmod>2026-07-22</lastmod>
+  <priority>0.5</priority>
+  <xhtml:link rel="alternate" hreflang="ja" href="https://www.offstage-archive.org/ja/about/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.offstage-archive.org/about/"/>
+  <xhtml:link rel="alternate" hreflang="tl" href="https://www.offstage-archive.org/tl/about/"/>
+  <xhtml:link rel="alternate" hreflang="pt" href="https://www.offstage-archive.org/pt/about/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://www.offstage-archive.org/ja/about/"/>
+</url>
+<url>
+  <loc>https://www.offstage-archive.org/pt/about/</loc>
+  <lastmod>2026-07-22</lastmod>
+  <priority>0.5</priority>
+  <xhtml:link rel="alternate" hreflang="ja" href="https://www.offstage-archive.org/ja/about/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.offstage-archive.org/about/"/>
+  <xhtml:link rel="alternate" hreflang="tl" href="https://www.offstage-archive.org/tl/about/"/>
+  <xhtml:link rel="alternate" hreflang="pt" href="https://www.offstage-archive.org/pt/about/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://www.offstage-archive.org/ja/about/"/>
+</url>
+</urlset>
