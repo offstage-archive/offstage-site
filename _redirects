@@ -1,2 +1,6 @@
 # Japanese-first: bare / lands on JA. EN home is /en/.
 / /ja/ 302
+
+# Leak closure 2026-08-02: draft web-encodes are removed from the build. Force a 404 at
+# the edge (evaluated before the asset cache) so stale cached copies can never be served.
+/video/_draft-* /404 404
