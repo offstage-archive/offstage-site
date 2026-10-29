@@ -1,37 +1,56 @@
 # Offstage — allow search engines and AI crawlers
 # LLMs index: https://www.offstage-archive.org/llms.txt
+#
+# One path is excluded from crawling: /0a4d9a42ab1d5a17bd5d78dd1ae6e18f396b0cb2/
+# That page is an unlisted evidence record served to one recipient by direct link.
+# The Disallow is repeated inside every named group on purpose. A crawler that has
+# its own group obeys that group only and does not inherit the wildcard group, so a
+# single "User-agent: *" disallow would leave Googlebot and the AI crawlers free to
+# fetch it. Every other path on the site stays allowed, and the Disallow below is a
+# full path with a trailing slash, so it matches that one directory and nothing else.
 
 User-agent: *
 Allow: /
+Disallow: /0a4d9a42ab1d5a17bd5d78dd1ae6e18f396b0cb2/
 
 User-agent: Googlebot
 Allow: /
+Disallow: /0a4d9a42ab1d5a17bd5d78dd1ae6e18f396b0cb2/
 
 User-agent: Bingbot
 Allow: /
+Disallow: /0a4d9a42ab1d5a17bd5d78dd1ae6e18f396b0cb2/
 
 User-agent: GPTBot
 Allow: /
+Disallow: /0a4d9a42ab1d5a17bd5d78dd1ae6e18f396b0cb2/
 
 User-agent: ChatGPT-User
 Allow: /
+Disallow: /0a4d9a42ab1d5a17bd5d78dd1ae6e18f396b0cb2/
 
 User-agent: ClaudeBot
 Allow: /
+Disallow: /0a4d9a42ab1d5a17bd5d78dd1ae6e18f396b0cb2/
 
 User-agent: anthropic-ai
 Allow: /
+Disallow: /0a4d9a42ab1d5a17bd5d78dd1ae6e18f396b0cb2/
 
 User-agent: PerplexityBot
 Allow: /
+Disallow: /0a4d9a42ab1d5a17bd5d78dd1ae6e18f396b0cb2/
 
 User-agent: Google-Extended
 Allow: /
+Disallow: /0a4d9a42ab1d5a17bd5d78dd1ae6e18f396b0cb2/
 
 User-agent: Applebot-Extended
 Allow: /
+Disallow: /0a4d9a42ab1d5a17bd5d78dd1ae6e18f396b0cb2/
 
 User-agent: meta-externalagent
 Allow: /
+Disallow: /0a4d9a42ab1d5a17bd5d78dd1ae6e18f396b0cb2/
 
 Sitemap: https://www.offstage-archive.org/sitemap.xml

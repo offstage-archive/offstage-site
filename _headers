@@ -11,3 +11,11 @@
 
 /sitemap.xml
   Content-Type: application/xml; charset=utf-8
+
+# Unlisted evidence page. Overrides the site-wide "index, follow" above for this one
+# path only, so the response header agrees with the page's own meta robots tag.
+/0a4d9a42ab1d5a17bd5d78dd1ae6e18f396b0cb2
+  X-Robots-Tag: noindex, nofollow, noarchive, nosnippet
+
+/0a4d9a42ab1d5a17bd5d78dd1ae6e18f396b0cb2/*
+  X-Robots-Tag: noindex, nofollow, noarchive, nosnippet
